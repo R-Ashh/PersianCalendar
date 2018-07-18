@@ -1,4 +1,4 @@
-package com.nahantech.musicplatform.lib.util;
+package com.arashafsharpour.musicplatform.lib.util;
 
 import android.annotation.SuppressLint;
 
